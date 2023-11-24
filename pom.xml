@@ -48,11 +48,7 @@
 			<artifactId>kie-server-client</artifactId>
 			<version>7.74.1.Final</version>
 		</dependency>
-		<dependency>
-			<groupId>org.jbpm.spring</groupId>
-			<artifactId>spring-boot-jbpm</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 
 
 		<dependency>
